@@ -1,7 +1,7 @@
 [
     {
         "name": "English",
-        "tree": "./assets/kalashyan-tree.en.csv",
+        "tree": "./assets/Bhatewara.csv",
         "legend": "./assets/kalashyan-legend.en.json",
         "background": "./assets/map_2x.png"
     },
